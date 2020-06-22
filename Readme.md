@@ -31,4 +31,4 @@ Source criada com o intuito de ajudar os membros a criarem seus próprios bots d
 Possui dúvidas ou sugestões para o código? Deixe seu feedback na aba de issues da Github.
   
 ### Gostou da source?
-Se gostou e não sabe como agradecer, siga-me ou me dê uma 🌟 para ajudar! Caso queira ajudar compartilhando o projeto para seus amigos e conhecidos, ajudaria muito também.o
+Se gostou e não sabe como agradecer, siga-me ou me dê uma 🌟 para ajudar! Caso queira ajudar compartilhando o projeto para seus amigos e conhecidos, ajudaria muito também.
